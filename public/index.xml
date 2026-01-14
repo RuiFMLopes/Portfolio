@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rui FM Lopes</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content on Rui FM Lopes</description>
+    <generator>Hugo</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Tue, 13 Jan 2026 17:33:56 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/portfolio/contact/</link>
+      <pubDate>Tue, 13 Jan 2026 17:33:56 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/contact/</guid>
+      <description>&lt;p&gt;Estou sempre aberto a novos desafios e colaborações. Podes contactar-me através de:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; &lt;a href=&#34;mailto:ruifmlopes.dev@gmail.com&#34; &gt;ruifmlopes.dev@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/rui-filipe-morais-lopes-0a43343a2/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/ruifmlopes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/RuiFMLopes/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/RuiFMLopes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sobre Mim</title>
+      <link>http://localhost:1313/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/about/</guid>
+      <description>&lt;p&gt;Olá! Sou o &lt;strong&gt;Rui Lopes&lt;/strong&gt;, estudante de Engenharia Informática.&lt;/p&gt;&#xA;&lt;p&gt;A minha jornada tecnológica começou muito cedo, impulsionada por uma paixão natural por computadores e pela curiosidade de entender como o software molda o mundo. O que começou com o interesse em hardware e gaming, evoluiu para o desejo de construir as minhas próprias soluções.&lt;/p&gt;&#xA;&lt;h3 id=&#34;o-que-trago-comigo&#34;&gt;&#xD;&#xA;  O que trago comigo&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#o-que-trago-comigo&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;O meu foco central é o desenvolvimento de software, mas a minha visão é enriquecida por um background académico na área da &lt;strong&gt;Economia&lt;/strong&gt;. Esta combinação permite-me abordar problemas técnicos com uma perspetiva analítica, focada na eficiência e na viabilidade de sistemas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
