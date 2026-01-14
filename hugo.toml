@@ -1,5 +1,5 @@
 # Configurações Gerais
-baseurl = "https://ruifmlopes.is-a.dev/"
+baseurl = ""https://RuiFMLopes.github.io/portfolio/""
 title = "Rui FM Lopes"
 theme = "hugo-coder"
 languagecode = "pt-pt"
