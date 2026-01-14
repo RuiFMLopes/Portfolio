@@ -54,7 +54,7 @@ defaultcontentlanguage = "pt-pt"
   author = "Rui Filipe Morais Lopes"
   info = "Estudante de Engenharia Informática"
   description = "Portefólio profissional de Rui Filipe Morais Lopes"
-  keywords = "engenharia, informática, programador, porto"
+  keywords = "engenharia, informática, programador"
   avatarurl = "images/avatar.jpg" # Lembra-te de pôr a foto em static/images/avatar.jpg
   
   since = 2025
