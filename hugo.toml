@@ -1,0 +1,92 @@
+# Configurações Gerais
+baseurl = "https://ruifmlopes.is-a.dev/"
+title = "Rui FM Lopes"
+theme = "hugo-coder"
+languagecode = "pt-pt"
+defaultcontentlanguage = "pt-pt"
+
+[languages]
+  [languages.pt-pt]
+    languageName = "Português 🇵🇹"
+    contentDir = "content/pt-pt"
+    weight = 1
+    # Menu em Português
+    [[languages.pt-pt.menu.main]]
+      name = "Sobre"
+      url = "/about/"
+      weight = 1
+    [[languages.pt-pt.menu.main]]
+      name = "Projectos"
+      url = "/projects/"
+      weight = 2
+    [[languages.pt-pt.menu.main]]
+      name = "Contacto"
+      url = "/contact/"
+      weight = 3
+
+  [languages.en]
+    languageName = "English 🇬🇧"
+    contentDir = "content/en"
+    weight = 2
+    # Menu em Inglês
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/projects/"
+      weight = 2
+    [[languages.en.menu.main]]
+      name = "Contact"
+      url = "/contact/"
+      weight = 3
+
+[pagination]
+  pagerSize = 20
+
+[markup.highlight]
+  style = "github-dark"
+
+[params]
+  author = "Rui Filipe Morais Lopes"
+  info = "Estudante de Engenharia Informática"
+  description = "Portefólio profissional de Rui Filipe Morais Lopes"
+  keywords = "engenharia, informática, programador, porto"
+  avatarurl = "images/avatar.jpg" # Lembra-te de pôr a foto em static/images/avatar.jpg
+  
+  since = 2025
+  enableTwemoji = true
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+  
+
+
+# Links das Redes Sociais (Identidade Digital)
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/RuiFMLopes/"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/rui-filipe-morais-lopes-0a43343a2/" # Confirma se o teu link é este
+
+# Menu de Navegação Superior (Funcionalidades do Original)
+[[menu.main]]
+  name = "Sobre"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+  name = "Projectos"
+  weight = 2
+  url = "projects/"
+
+[[menu.main]]
+  name = "Contacto"
+  weight = 3
+  url = "contact/"
