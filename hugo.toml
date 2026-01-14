@@ -60,6 +60,9 @@ defaultcontentlanguage = "pt-pt"
   since = 2025
   enableTwemoji = true
   colorScheme = "auto"
+  [params]
+    # Força o modo escuro como predefinição
+    colorProtocol = "dark"
   hidecolorschemetoggle = false
   
 
