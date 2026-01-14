@@ -1,5 +1,5 @@
 # Configurações Gerais
-baseURL = "https://RuiFMLopes.github.io/portfolio/"
+baseur1 = "https://RuiFMLopes.github.io/portfolio/"
 title = "Rui FM Lopes"
 theme = "hugo-coder"
 canonifyURLs = true
