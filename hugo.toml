@@ -43,7 +43,8 @@ defaultcontentlanguage = "pt-pt"
       name = "Contact"
       url = "/contact/"
       weight = 3
-
+      [languages.en.params]
+      info = "Computer Science and Engineering Student" # Texto em EN
 [pagination]
   pagerSize = 20
 
@@ -59,10 +60,9 @@ defaultcontentlanguage = "pt-pt"
   
   since = 2025
   enableTwemoji = true
-  colorScheme = "auto"
-  [params]
-    # Força o modo escuro como predefinição
-    colorProtocol = "dark"
+  colorScheme = "dark"
+  # Força o modo escuro como predefinição
+  colorProtocol = "dark"
   hidecolorschemetoggle = false
   
 
