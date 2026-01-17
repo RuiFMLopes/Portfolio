@@ -12,41 +12,40 @@ defaultcontentlanguage = "pt-pt"
     languageName = "Português 🇵🇹"
     contentDir = "content/pt-pt"
     weight = 1
-    # Menu em Português
+    [languages.pt-pt.params]
+      info = "Estudante de Engenharia Informática"
     [[languages.pt-pt.menu.main]]
       name = "Sobre"
-      url = "/about/"
+      url = "about/"
       weight = 1
     [[languages.pt-pt.menu.main]]
       name = "Projectos"
-      url = "/projects/"
+      url = "projects/"
       weight = 2
     [[languages.pt-pt.menu.main]]
       name = "Contacto"
-      url = "/contact/"
+      url = "contact/"
       weight = 3
-      [languages.pt-pt.params]
-      info = "Estudante de Engenharia Informática" # Texto em PT
+
 
   [languages.en]
     languageName = "English 🇬🇧"
     contentDir = "content/en"
     weight = 2
-    # Menu em Inglês
+    [languages.en.params]
+      info = "Computer Science and Engineering Student"
     [[languages.en.menu.main]]
       name = "About"
-      url = "/about/"
+      url = "about/"
       weight = 1
     [[languages.en.menu.main]]
       name = "Projects"
-      url = "/projects/"
+      url = "projects/"
       weight = 2
     [[languages.en.menu.main]]
       name = "Contact"
-      url = "/contact/"
+      url = "contact/"
       weight = 3
-      [languages.en.params]
-      info = "Computer Science and Engineering Student" # Texto em EN
 [pagination]
   pagerSize = 20
 
@@ -66,10 +65,15 @@ defaultcontentlanguage = "pt-pt"
   # Força o modo escuro como predefinição
   colorProtocol = "dark"
   hidecolorschemetoggle = false
+  hideCredits = false
+  hideCopyright = false
+  hideFooter = false
+  
+  
   
 
 
-# Links das Redes Sociais (Identidade Digital)
+# Links das Redes Sociais
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
@@ -80,20 +84,7 @@ defaultcontentlanguage = "pt-pt"
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 2
-  url = "https://www.linkedin.com/in/rui-filipe-morais-lopes-0a43343a2/" # Confirma se o teu link é este
+  url = "https://www.linkedin.com/in/rui-filipe-morais-lopes-0a43343a2/" 
 
-# Menu de Navegação Superior (Funcionalidades do Original)
-[[menu.main]]
-  name = "Sobre"
-  weight = 1
-  url = "about/"
 
-[[menu.main]]
-  name = "Projectos"
-  weight = 2
-  url = "projects/"
 
-[[menu.main]]
-  name = "Contacto"
-  weight = 3
-  url = "contact/"
