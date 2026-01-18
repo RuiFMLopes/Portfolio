@@ -59,6 +59,8 @@ defaultcontentlanguage = "pt-pt"
   keywords = "engenharia, informática, programador"
   avatarurl = "images/avatar.jpg" # Lembra-te de pôr a foto em static/images/avatar.jpg
   
+  images = ["images/avatar.jpg"]
+
   since = 2025
   enableTwemoji = true
   colorScheme = "dark"
